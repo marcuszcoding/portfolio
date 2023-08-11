@@ -174,3 +174,20 @@ img {
 }
 
 /* ===== Device Breakpoints ===== */
+/* Large */
+@media screen and (max-width: 992px) {
+  
+}
+
+/* Medium */
+@media screen and (max-width: 768px) {
+  
+}
+
+@media screen and (max-width: 576px) {
+  
+}
+/* Small */
+@media screen and (max-width: 350px) {
+  
+}
