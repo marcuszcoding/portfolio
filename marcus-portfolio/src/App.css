@@ -7,8 +7,12 @@
 :root {
 
   --header-height: 3rem;
+
   /* Colours */
-  
+  --hue: 0;
+  --sat: 0%;
+  --title-colour: hsl(var(--hue), var(--sat), 20%);
+
 }
 
 
