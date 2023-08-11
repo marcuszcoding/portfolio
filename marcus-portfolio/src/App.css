@@ -116,22 +116,37 @@ img {
 
 /* ===== Resuable CSS Classes ===== */
 
-.section{
+.section {
   padding: 6rem;
 }
 
-.section-title{
+.section-title {
   font-size: var(--h1-font-size);
   color: var(--title-color);
 }
 
-.section-subtitle{
+.section-subtitle {
   display: block;
   font-size: var(--small-font-size);
   margin-bottom: 4rem;
 }
 
 .section-title,
-.section-subtitle{
+.section-subtitle {
   text-align: center;
 }
+
+/* ===== Layout ===== */
+
+.container{ 
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+/* ===== Layout ===== */
