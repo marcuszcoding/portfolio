@@ -2,6 +2,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Poppins:wght@400;500;600&display=swap');
 /* FONTS */
 
+
+/* ===== VARIABLE CSS ===== */
+:root {
+
+  --header-height: 3rem;
+  /* Colours */
+  
+}
+
+
+
+
+
+
+
 .App {
   text-align: center;
 }
