@@ -10,7 +10,13 @@ const Header = () => {
           <ul className="nav-list grid">
             <li className="nav-item">
               <a href="" className="nav-link">
-                <i className="uil uil- nav-icon"></i>
+                <i className="uil uil-estate nav-icon"></i> Home
+              </a>
+            </li>
+
+            <li className="nav-item">
+              <a href="" className="nav-link">
+                <i className="uil uil-user nav-icon"></i>
               </a>
             </li>
 
@@ -26,12 +32,6 @@ const Header = () => {
               </a>
             </li>
 
-            <li className="nav-item">
-              <a href="" className="nav-link">
-                <i className="uil uil- nav-icon"></i>
-              </a>
-            </li>
-            
             <li className="nav-item">
               <a href="" className="nav-link">
                 <i className="uil uil- nav-icon"></i>
