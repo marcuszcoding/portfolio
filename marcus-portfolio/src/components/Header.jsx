@@ -7,7 +7,37 @@ const Header = () => {
       <nav className="nav container">
         <a href="index.html" className="nav-logo">Marcus</a>
         <div className="nav-menu">
-          <ul className="nav-list grid"></ul>
+          <ul className="nav-list grid">
+            <li className="nav-item">
+              <a href="" className="nav-link">
+                <i className="uil uil- nav-icon"></i>
+              </a>
+            </li>
+
+            <li className="nav-item">
+              <a href="" className="nav-link">
+                <i className="uil uil- nav-icon"></i>
+              </a>
+            </li>
+
+            <li className="nav-item">
+              <a href="" className="nav-link">
+                <i className="uil uil- nav-icon"></i>
+              </a>
+            </li>
+
+            <li className="nav-item">
+              <a href="" className="nav-link">
+                <i className="uil uil- nav-icon"></i>
+              </a>
+            </li>
+            
+            <li className="nav-item">
+              <a href="" className="nav-link">
+                <i className="uil uil- nav-icon"></i>
+              </a>
+            </li>
+          </ul>
         </div>
       </nav>
     </header>
