@@ -4,3 +4,12 @@
   column-gap: 2rem;
   align-items: center;
 }
+
+.home-img {
+  background: url(../../assets/IMG_0846.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+}
