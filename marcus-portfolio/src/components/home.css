@@ -5,6 +5,21 @@
   align-items: center;
 }
 
+.home-social {
+  display: grid;
+  grid-template-columns: max-content;
+  row-gap: 1em;
+}
+
+.home-social-icon {
+  font-size: 1.25rem;
+  color: var(--title-color);
+}
+
+.home-social-icon:hover {
+  color: var(--title-color-dark);
+}
+
 .home-img {
   background: url(../../assets/IMG_0846.jpeg);
   background-repeat: no-repeat;
