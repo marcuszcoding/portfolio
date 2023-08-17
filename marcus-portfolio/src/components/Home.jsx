@@ -8,6 +8,11 @@ const Home = () => {
       <div className="home-container container grid"></div>
         <div className="home-content grid">
             <Social />
+
+            <div className='home-img'></div>
+
+            <Data />
+
         </div>
     </section>
   )
