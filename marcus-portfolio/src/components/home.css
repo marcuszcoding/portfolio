@@ -39,6 +39,16 @@
   margin-bottom: var(--mb-1);
 }
 
+.home-subtitle::before {
+  content: '';
+  position: absolute;
+  width: 70px;
+  height: 1px;
+  background-color: var(--text-color);
+  left: 0;
+  top: 1rem;
+}
+
 .home-img {
   background: url(../../assets/IMG_0846.jpeg);
   background-repeat: no-repeat;
