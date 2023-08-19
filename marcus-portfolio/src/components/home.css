@@ -31,6 +31,14 @@
   margin-left: 0.4rem;
 }
 
+.home-subtitle {
+  position: relative;
+  font-size: var(--h3-font-size);
+  padding-left: 5.4rem;
+  font-weight: var(--font-normal);
+  margin-bottom: var(--mb-1);
+}
+
 .home-img {
   background: url(../../assets/IMG_0846.jpeg);
   background-repeat: no-repeat;
