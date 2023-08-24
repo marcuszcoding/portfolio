@@ -49,6 +49,11 @@
   top: 1rem;
 }
 
+.home-description {
+  max-width: 400px;
+  margin-bottom: var(--mb-3);
+}
+
 .home-img {
   background: url(../../assets/IMG_0846.jpeg);
   background-repeat: no-repeat;
@@ -59,4 +64,9 @@
   justify-self: center;
   width: 300px;
   height: 300px;
+  animation: profile--animate 8s ease-in-out infinite 1s;
+}
+
+@keyframes profile-animate {
+  
 }
